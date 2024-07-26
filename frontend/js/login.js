@@ -56,7 +56,7 @@ window.onload = () => {
     window.location.href = '../page/login.html';  //redirigimos al login
     alert('Debes iniciar sesión para acceder a esta sección'); //enviamos una alerta
 }
-
+a
 
 
 
