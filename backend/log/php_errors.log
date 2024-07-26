@@ -1,0 +1,25 @@
+[15-Jun-2024 01:01:20 Europe/Berlin] PHP Notice:  Undefined index: funcion in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 4
+[15-Jun-2024 01:01:21 Europe/Berlin] PHP Notice:  Undefined index: funcion in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 4
+[15-Jun-2024 01:03:30 Europe/Berlin] PHP Notice:  Undefined index: nombre in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 23
+[15-Jun-2024 01:03:30 Europe/Berlin] PHP Notice:  Undefined index: imagen in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 24
+[15-Jun-2024 01:03:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 15
+[15-Jun-2024 01:03:30 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 16
+[15-Jun-2024 01:04:17 Europe/Berlin] PHP Notice:  Undefined index: nombre in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 23
+[15-Jun-2024 01:04:17 Europe/Berlin] PHP Notice:  Undefined index: imagen in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 24
+[15-Jun-2024 01:04:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 15
+[15-Jun-2024 01:04:17 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 16
+[15-Jun-2024 01:05:15 Europe/Berlin] PHP Notice:  Undefined index: nombre in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 23
+[15-Jun-2024 01:05:15 Europe/Berlin] PHP Notice:  Undefined index: imagen in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 24
+[15-Jun-2024 01:05:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 15
+[15-Jun-2024 01:05:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 16
+.
+,.
+.
+.[15-Jun-2024 01:05:33 Europe/Berlin] PHP Notice:  Undefined index: nombre in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 23
+[15-Jun-2024 01:05:33 Europe/Berlin] PHP Notice:  Undefined index: imagen in C:\xampp\htdocs\gestorImagen\backend\controller\imagen.php on line 24
+[15-Jun-2024 01:05:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 15
+[15-Jun-2024 01:05:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\gestorImagen\backend\model\imagenDAO.php on line 16
+-
+-
+-
+-
